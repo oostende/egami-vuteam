@@ -449,7 +449,7 @@
 		<item level="2" text="Show translation packages" description="If set to 'yes' it will show the 'PO' packages in browser.">config.pluginbrowser.po</item>
 		<item level="2" text="Show source packages" description="If set to 'yes' it will show the 'SRC' packages in browser.">config.pluginbrowser.src</item>
 	</setup>
-	<setup key="egamianimationsetup" title="EGAMI Animation settings">
+	<!--<setup key="egamianimationsetup" title="EGAMI Animation settings">
 		<item level="0" text="Enable fade effect on menus(disable animations)" description="When enabled, menu screens will appear with fade effect.">config.misc.fadeShowMenu</item>
 		<item level="0" text="Enable infobar fade-out" description="Fade the Infobar on hide">config.usage.show_infobar_do_dimming</item>
 		<item level="0" text="\tFade-out speed" description="Control the Infobar fading speed" requires="config.usage.show_infobar_do_dimming">config.usage.show_infobar_dimming_speed</item>
@@ -461,7 +461,7 @@
 		<item level="0" text="Menu animation quickly -/+ smoothly" description="Configure balance of quickly/smoothly of the animation cursor menu.">config.skin.runningStep</item>
 		<item level="0" text="Show True/False as graphical switch" description="When enabled, True/False, Yes/No, On/Off and Enabled/Disabled set up options will be displayed as a graphical switch.">config.usage.boolean_graphic</item>
 		<item level="0" text="Show Slider as graphical slider" description="When enabled, all sliders set up options will be displayed as a graphical sldier.">config.usage.slider_graphic</item>
-		<item level="0" text="Show Main Menu as" description="Choose style of main menus" >config.usage.menutype</item>
+		<item level="0" text="Show Main Menu as" description="Choose style of main menus" >config.usage.menutype</item>-->
 	</setup>
 	<setup level="2" key="vodsetup" title="VOD Settings">
 		<item level="2" text="Enable VOD at channel list" description="If set to 'yes' it will enable PLAY,PAUSE, SEEK on channel list movies">config.usage.enableVodMode</item>
